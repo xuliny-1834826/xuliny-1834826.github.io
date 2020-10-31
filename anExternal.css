@@ -1,0 +1,45 @@
+body{
+    
+}
+
+div {
+
+}
+
+p{
+    border: solid 3px black;
+    border-style: dotted;
+    border-radius: 25px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+
+#Picture {
+    margin : 20px;
+}
+
+#poemimg {
+    float: right;
+}
+
+
+.text {cursor: text;}
+
+.copy {cursor: copy;}
+
+.container {
+    position: relative;
+    text-align: center;
+    color:black;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
